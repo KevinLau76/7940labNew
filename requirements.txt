@@ -1,4 +1,0 @@
-configparser~=6.0.0
-telegram~=0.0.1
-requests~=2.31.0
-redis~=5.0.1
